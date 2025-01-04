@@ -27,6 +27,7 @@ It also won't hesitate to start deleting messages if you click to a different DM
 If you're curious about how long it might take, I measured the time for one message to be deleted to be about 1.3 seconds. So that means if you have, lets say 12,342 messages for example, it will take about 16,045 seconds. That's about 4 and a half hours. Sheesh! Told you it would take a while.
 
 Also, I think this program is *technically* against Discord TOS, but I'm not sure how well this would be enforced. Read over this article and make your own judgment calls: https://support.discord.com/hc/en-us/articles/115002192352-Automated-User-Accounts-Self-Bots
+
 Now if you don't care about the TOS, go kill 'em tiger!
 
 Have fun!
