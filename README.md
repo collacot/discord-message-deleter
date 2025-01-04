@@ -1,5 +1,4 @@
 # discord-message-deleter
-A program made in Clickteam Fusion 2.5 for deleting discord messages.
 
 **-= Info:**
 This program was made with Clickteam Fusion 2.5, and sometimes Windows or antiviruses scream that programs made in it are viruses. 
